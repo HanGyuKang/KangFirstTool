@@ -1,0 +1,15 @@
+Package: KangFirstTools
+Title: KangFirstTools
+Version: 0.0.0.9000
+Authors@R: person("HanGyu", "Kang", email = "kangx478@umn.edu", role = c("aut", "cre"))
+Description: This is an package for Quiz3
+Depends: R (>= 3.4.3)
+License: file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: testthat,
+    knitr,
+    rmarkdown
+Imports: ggplot2
+VignetteBuilder: knitr
